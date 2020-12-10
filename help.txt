@@ -1,0 +1,4 @@
+Help:
+	--simple	add some strings to end of the file.
+	--moderate	replace the similar looking string.
+	--hard-to-guess	create hard to guess string with adding randoms strings. 
