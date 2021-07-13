@@ -1,5 +1,5 @@
 # PassGen
-PassGen is a python based password generator and modifier tool used for generating strong passwords.
+PassGen is a python-based password generator and modifier tool used for generating strong passwords.
 
 Current version avaible is 2021.5.3
 
@@ -9,7 +9,9 @@ Current version avaible is 2021.5.3
 
 ### Usage
 `python3 passgen.py <string> <mode-of-security>`
+
 Options:
+
 	--simple			Add some strings to end of the file.
 	--moderate			Replace the similar looking string.
 	--hard-to-guess			Create hard to guess password. 
