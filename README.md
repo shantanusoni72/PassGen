@@ -11,6 +11,7 @@ Current version available is 2021.5.3.
 `python3 passgen.py <string> <mode-of-security>`
 
 Options:
-  --simple				      Add some strings to end of the file.
-	--moderate				    Replace the similar looking string.
-	--hard-to-guess			  Create hard to guess password. 
+
+--simple		      Add some strings to end of the file.
+--moderate                    Replace the similar looking string.
+--hard-to-guess	              Create hard to guess password. 
